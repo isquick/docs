@@ -1,0 +1,24 @@
+{
+  "projectType": "general",
+  "projectName": "David Isquick",
+  "projectDescription": "Personal site for David Isquick, a product marketing leader with experience at Facebook/Meta, Optimizely, and Apollo GraphQL.",
+  "theme": "willow",
+  "primaryColor": "#2563EB",
+  "lightColor": "#EFF6FF",
+  "darkColor": "#1E3A5F",
+  "navigation": {
+    "groups": [
+      {
+        "group": "About",
+        "pages": ["introduction", "portfolio"]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Product marketing leadership",
+    "Product launch experience",
+    "Conference production",
+    "Resume and portfolio"
+  ],
+  "publicApiSurface": []
+}
